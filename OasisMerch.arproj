@@ -41,6 +41,95 @@
       "identifier": "textures:1387560-9b69c8b5-672d-4dfa-9b61-05d7d35e220d"
     },
     {
+      "modelName": "materials",
+      "identifier": "materials:1387562-9b69c8b5-672d-4dfa-9b61-05d7d35e220d",
+      "children": [
+        {
+          "sectionFileLocation": "objects/ISLA_A_SIN_ILUMINACION/AZUL_BRILLANTE.material"
+        },
+        {
+          "sectionFileLocation": "objects/ISLA_A_SIN_ILUMINACION/AZUL_MATTE.material"
+        },
+        {
+          "sectionFileLocation": "objects/ISLA_A_SIN_ILUMINACION/COLOR_LETRA.material"
+        },
+        {
+          "sectionFileLocation": "objects/ISLA_A_SIN_ILUMINACION/LUNA_COLOR.material"
+        }
+      ]
+    },
+    {
+      "modelName": "prefabs",
+      "identifier": "prefabs:1387564-9b69c8b5-672d-4dfa-9b61-05d7d35e220d",
+      "children": [
+        {
+          "modelName": "gltf",
+          "name": "pCone14",
+          "identifier": "gltf:1387867-9b69c8b5-672d-4dfa-9b61-05d7d35e220d",
+          "sourceIdentifier": "master3_d_object_model:1387938-9b69c8b5-672d-4dfa-9b61-05d7d35e220d",
+          "assetLocator": "1387868-9b69c8b5-672d-4dfa-9b61-05d7d35e220d.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "pCone13",
+          "identifier": "gltf:1387877-9b69c8b5-672d-4dfa-9b61-05d7d35e220d",
+          "sourceIdentifier": "master3_d_object_model:1387938-9b69c8b5-672d-4dfa-9b61-05d7d35e220d",
+          "assetLocator": "1387878-9b69c8b5-672d-4dfa-9b61-05d7d35e220d.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "pCone12",
+          "identifier": "gltf:1387887-9b69c8b5-672d-4dfa-9b61-05d7d35e220d",
+          "sourceIdentifier": "master3_d_object_model:1387938-9b69c8b5-672d-4dfa-9b61-05d7d35e220d",
+          "assetLocator": "1387888-9b69c8b5-672d-4dfa-9b61-05d7d35e220d.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "pCone11",
+          "identifier": "gltf:1387899-9b69c8b5-672d-4dfa-9b61-05d7d35e220d",
+          "sourceIdentifier": "master3_d_object_model:1387938-9b69c8b5-672d-4dfa-9b61-05d7d35e220d",
+          "assetLocator": "1387900-9b69c8b5-672d-4dfa-9b61-05d7d35e220d.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "pCone10",
+          "identifier": "gltf:1387909-9b69c8b5-672d-4dfa-9b61-05d7d35e220d",
+          "sourceIdentifier": "master3_d_object_model:1387938-9b69c8b5-672d-4dfa-9b61-05d7d35e220d",
+          "assetLocator": "1387910-9b69c8b5-672d-4dfa-9b61-05d7d35e220d.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "LETRA1",
+          "identifier": "gltf:1387922-9b69c8b5-672d-4dfa-9b61-05d7d35e220d",
+          "sourceIdentifier": "master3_d_object_model:1387938-9b69c8b5-672d-4dfa-9b61-05d7d35e220d",
+          "assetLocator": "1387923-9b69c8b5-672d-4dfa-9b61-05d7d35e220d.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "LUNA1",
+          "identifier": "gltf:1387932-9b69c8b5-672d-4dfa-9b61-05d7d35e220d",
+          "sourceIdentifier": "master3_d_object_model:1387938-9b69c8b5-672d-4dfa-9b61-05d7d35e220d",
+          "assetLocator": "1387933-9b69c8b5-672d-4dfa-9b61-05d7d35e220d.glb",
+          "isExternalAsset": false
+        }
+      ]
+    },
+    {
+      "modelName": "3_d_objects_model",
+      "identifier": "3_d_objects_model:1387566-9b69c8b5-672d-4dfa-9b61-05d7d35e220d",
+      "children": [
+        {
+          "sectionFileLocation": "objects/ISLA_A_SIN_ILUMINACION/ISLA_A_SIN_ILUMINACION.object"
+        }
+      ]
+    },
+    {
       "sectionFileLocation": "OasisMerch.scene"
     },
     {
@@ -52,6 +141,38 @@
           "name": "layer0",
           "identifier": "layer:1387632-9b69c8b5-672d-4dfa-9b61-05d7d35e220d",
           "color": "0xff8c72ca"
+        }
+      ]
+    },
+    {
+      "modelName": "asset_collections_model",
+      "identifier": "asset_collections_model:1387574-9b69c8b5-672d-4dfa-9b61-05d7d35e220d",
+      "children": [
+        {
+          "modelName": "asset_collection_model",
+          "name": "ISLA_A_SIN_ILUMINACION",
+          "identifier": "asset_collection_model:1387942-9b69c8b5-672d-4dfa-9b61-05d7d35e220d",
+          "assetDataHash": "b66226462905b971d0d847be8385576f",
+          "assetLocator": "objects/ISLA_A_SIN_ILUMINACION/ISLA_A_SIN_ILUMINACION.fbx",
+          "authoringTool": "FBX SDK/FBX Plugins version 2020.3.1",
+          "excludeDuringExport": true,
+          "isExternalAsset": true,
+          "master3DInstanceSourceHash": "b66226462905b971d0d847be8385576f",
+          "children": [
+            {
+              "modelName": "unsupportedFeatures",
+              "name": "unsupportedFeatures0",
+              "identifier": "unsupportedFeatures:1387940-9b69c8b5-672d-4dfa-9b61-05d7d35e220d",
+              "namesForFeatureType": {
+                "Material": [
+                  "COLOR_LETRA",
+                  "AZUL_BRILLANTE",
+                  "AZUL_MATTE",
+                  "LUNA_COLOR"
+                ]
+              }
+            }
+          ]
         }
       ]
     },

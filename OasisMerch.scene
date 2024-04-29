@@ -171,6 +171,483 @@
                     "y": 0.25,
                     "z": 0.3
                   }
+                },
+                {
+                  "modelName": "3_d_object_instance_model",
+                  "name": "ISLA_A_SIN_ILUMINACION",
+                  "identifier": "master3_d_object_model:1388156-9b69c8b5-672d-4dfa-9b61-05d7d35e220d",
+                  "sourceIdentifier": "master3_d_object_model:1387938-9b69c8b5-672d-4dfa-9b61-05d7d35e220d",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "depth": 0.2739964723587036,
+                  "height": 0.3693603277206421,
+                  "hidden": false,
+                  "layerIdentifier": "layer0",
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "tags": [],
+                  "transform": {
+                    "rx": 0,
+                    "ry": -0,
+                    "rz": 0,
+                    "sx": 1,
+                    "sy": 1,
+                    "sz": 1,
+                    "x": -1.6535919655780162E-7,
+                    "y": 0.0000018444843590259552,
+                    "z": 0.17831432819366455
+                  },
+                  "width": 0.3105694651603699,
+                  "children": [
+                    {
+                      "modelName": "sceneObject",
+                      "name": "ISLA",
+                      "identifier": "sceneObject:1388183-9b69c8b5-672d-4dfa-9b61-05d7d35e220d",
+                      "sourceIdentifier": "sceneObject:1387861-9b69c8b5-672d-4dfa-9b61-05d7d35e220d",
+                      "animationMask": {
+                        "position": false,
+                        "rotation": false,
+                        "scale": false
+                      },
+                      "cameraVisibility": "back|front",
+                      "hidden": false,
+                      "layerIdentifier": "layer0",
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "shapeColor": "0xff808080",
+                      "shapeType": 0,
+                      "tags": [],
+                      "transform": {
+                        "rx": 0,
+                        "ry": 0,
+                        "rz": 0,
+                        "sx": 1,
+                        "sy": 1,
+                        "sz": 1,
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      },
+                      "children": [
+                        {
+                          "modelName": "mesh",
+                          "name": "pCone14",
+                          "identifier": "mesh:1388186-9b69c8b5-672d-4dfa-9b61-05d7d35e220d",
+                          "sourceIdentifier": "mesh:1387863-9b69c8b5-672d-4dfa-9b61-05d7d35e220d",
+                          "animationMask": {
+                            "position": false,
+                            "rotation": false,
+                            "scale": false
+                          },
+                          "cameraVisibility": "back|front",
+                          "castShadow": false,
+                          "hidden": false,
+                          "layerIdentifier": "layer0",
+                          "nodeName": "pCone14",
+                          "numberOfFaces": 4,
+                          "outputVisibility": "preview|capture",
+                          "physicsEnabled": false,
+                          "prefabIdentifier": "gltf:1387867-9b69c8b5-672d-4dfa-9b61-05d7d35e220d",
+                          "receiveShadow": false,
+                          "renderPass": "main_scene",
+                          "tags": [],
+                          "transform": {
+                            "rx": -3.141592502593994,
+                            "ry": 0,
+                            "rz": 2.190857410430908,
+                            "sx": 1.163297414779663,
+                            "sy": 1.163297414779663,
+                            "sz": 1.163297414779663,
+                            "x": 0.05762436240911484,
+                            "y": 0.07599219679832458,
+                            "z": -0.04160212352871895
+                          },
+                          "useEmbeddedBlendshapes": false,
+                          "children": [
+                            {
+                              "modelName": "surfaces",
+                              "identifier": "surfaces:1388189-9b69c8b5-672d-4dfa-9b61-05d7d35e220d",
+                              "sourceIdentifier": "surfaces:1387865-9b69c8b5-672d-4dfa-9b61-05d7d35e220d",
+                              "children": [
+                                {
+                                  "modelName": "surface",
+                                  "name": "surface0",
+                                  "identifier": "surface:1388192-9b69c8b5-672d-4dfa-9b61-05d7d35e220d",
+                                  "sourceIdentifier": "surface:1387870-9b69c8b5-672d-4dfa-9b61-05d7d35e220d",
+                                  "isMaterialIdentifierEnabled": true,
+                                  "materialIdentifier": "dependent_material_model:1387851-9b69c8b5-672d-4dfa-9b61-05d7d35e220d",
+                                  "surfaceGroupIdentifier": "1387871-9b69c8b5-672d-4dfa-9b61-05d7d35e220d"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "modelName": "mesh",
+                          "name": "pCone13",
+                          "identifier": "mesh:1388195-9b69c8b5-672d-4dfa-9b61-05d7d35e220d",
+                          "sourceIdentifier": "mesh:1387873-9b69c8b5-672d-4dfa-9b61-05d7d35e220d",
+                          "animationMask": {
+                            "position": false,
+                            "rotation": false,
+                            "scale": false
+                          },
+                          "cameraVisibility": "back|front",
+                          "castShadow": false,
+                          "hidden": false,
+                          "layerIdentifier": "layer0",
+                          "nodeName": "pCone13",
+                          "numberOfFaces": 4,
+                          "outputVisibility": "preview|capture",
+                          "physicsEnabled": false,
+                          "prefabIdentifier": "gltf:1387877-9b69c8b5-672d-4dfa-9b61-05d7d35e220d",
+                          "receiveShadow": false,
+                          "renderPass": "main_scene",
+                          "tags": [],
+                          "transform": {
+                            "rx": -3.141592502593994,
+                            "ry": 0,
+                            "rz": 0.39516502618789673,
+                            "sx": 1.2170461416244507,
+                            "sy": 1.2170461416244507,
+                            "sz": 1.2170462608337402,
+                            "x": -0.045021314173936844,
+                            "y": 0.08016444742679596,
+                            "z": 0.07384376972913742
+                          },
+                          "useEmbeddedBlendshapes": false,
+                          "children": [
+                            {
+                              "modelName": "surfaces",
+                              "identifier": "surfaces:1388198-9b69c8b5-672d-4dfa-9b61-05d7d35e220d",
+                              "sourceIdentifier": "surfaces:1387875-9b69c8b5-672d-4dfa-9b61-05d7d35e220d",
+                              "children": [
+                                {
+                                  "modelName": "surface",
+                                  "name": "surface0",
+                                  "identifier": "surface:1388201-9b69c8b5-672d-4dfa-9b61-05d7d35e220d",
+                                  "sourceIdentifier": "surface:1387880-9b69c8b5-672d-4dfa-9b61-05d7d35e220d",
+                                  "isMaterialIdentifierEnabled": true,
+                                  "materialIdentifier": "dependent_material_model:1387851-9b69c8b5-672d-4dfa-9b61-05d7d35e220d",
+                                  "surfaceGroupIdentifier": "1387881-9b69c8b5-672d-4dfa-9b61-05d7d35e220d"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "modelName": "mesh",
+                          "name": "pCone12",
+                          "identifier": "mesh:1388204-9b69c8b5-672d-4dfa-9b61-05d7d35e220d",
+                          "sourceIdentifier": "mesh:1387883-9b69c8b5-672d-4dfa-9b61-05d7d35e220d",
+                          "animationMask": {
+                            "position": false,
+                            "rotation": false,
+                            "scale": false
+                          },
+                          "cameraVisibility": "back|front",
+                          "castShadow": false,
+                          "hidden": false,
+                          "layerIdentifier": "layer0",
+                          "nodeName": "pCone12",
+                          "numberOfFaces": 4,
+                          "outputVisibility": "preview|capture",
+                          "physicsEnabled": false,
+                          "prefabIdentifier": "gltf:1387887-9b69c8b5-672d-4dfa-9b61-05d7d35e220d",
+                          "receiveShadow": false,
+                          "renderPass": "main_scene",
+                          "tags": [],
+                          "transform": {
+                            "rx": -3.141592502593994,
+                            "ry": 0,
+                            "rz": -0.5568103790283203,
+                            "sx": 1.6010209321975708,
+                            "sy": 1.6010209321975708,
+                            "sz": 1.6010210514068604,
+                            "x": 0.013077910989522934,
+                            "y": 0.021221112459897995,
+                            "z": 0
+                          },
+                          "useEmbeddedBlendshapes": false,
+                          "children": [
+                            {
+                              "modelName": "surfaces",
+                              "identifier": "surfaces:1388207-9b69c8b5-672d-4dfa-9b61-05d7d35e220d",
+                              "sourceIdentifier": "surfaces:1387885-9b69c8b5-672d-4dfa-9b61-05d7d35e220d",
+                              "children": [
+                                {
+                                  "modelName": "surface",
+                                  "name": "surface0",
+                                  "identifier": "surface:1388210-9b69c8b5-672d-4dfa-9b61-05d7d35e220d",
+                                  "sourceIdentifier": "surface:1387890-9b69c8b5-672d-4dfa-9b61-05d7d35e220d",
+                                  "isMaterialIdentifierEnabled": true,
+                                  "materialIdentifier": "dependent_material_model:1387851-9b69c8b5-672d-4dfa-9b61-05d7d35e220d",
+                                  "surfaceGroupIdentifier": "1387891-9b69c8b5-672d-4dfa-9b61-05d7d35e220d"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "modelName": "sceneObject",
+                          "name": "ISLA",
+                          "identifier": "sceneObject:1388213-9b69c8b5-672d-4dfa-9b61-05d7d35e220d",
+                          "sourceIdentifier": "sceneObject:1387893-9b69c8b5-672d-4dfa-9b61-05d7d35e220d",
+                          "animationMask": {
+                            "position": false,
+                            "rotation": false,
+                            "scale": false
+                          },
+                          "cameraVisibility": "back|front",
+                          "hidden": false,
+                          "layerIdentifier": "layer0",
+                          "outputVisibility": "preview|capture",
+                          "physicsEnabled": false,
+                          "shapeColor": "0xff808080",
+                          "shapeType": 0,
+                          "tags": [],
+                          "transform": {
+                            "rx": 0,
+                            "ry": 0,
+                            "rz": 0,
+                            "sx": 1,
+                            "sy": 1,
+                            "sz": 1,
+                            "x": 0,
+                            "y": 0,
+                            "z": 0
+                          },
+                          "children": [
+                            {
+                              "modelName": "mesh",
+                              "name": "pCone11",
+                              "identifier": "mesh:1388216-9b69c8b5-672d-4dfa-9b61-05d7d35e220d",
+                              "sourceIdentifier": "mesh:1387895-9b69c8b5-672d-4dfa-9b61-05d7d35e220d",
+                              "animationMask": {
+                                "position": false,
+                                "rotation": false,
+                                "scale": false
+                              },
+                              "cameraVisibility": "back|front",
+                              "castShadow": false,
+                              "hidden": false,
+                              "layerIdentifier": "layer0",
+                              "nodeName": "pCone11",
+                              "numberOfFaces": 8,
+                              "outputVisibility": "preview|capture",
+                              "physicsEnabled": false,
+                              "prefabIdentifier": "gltf:1387899-9b69c8b5-672d-4dfa-9b61-05d7d35e220d",
+                              "receiveShadow": false,
+                              "renderPass": "main_scene",
+                              "tags": [],
+                              "transform": {
+                                "rx": -3.141592502593994,
+                                "ry": 0,
+                                "rz": 0,
+                                "sx": 7.939144134521484,
+                                "sy": 7.939144134521484,
+                                "sz": 7.939144134521484,
+                                "x": 0,
+                                "y": 0.1112164631485939,
+                                "z": 0.011470547877252102
+                              },
+                              "useEmbeddedBlendshapes": false,
+                              "children": [
+                                {
+                                  "modelName": "surfaces",
+                                  "identifier": "surfaces:1388219-9b69c8b5-672d-4dfa-9b61-05d7d35e220d",
+                                  "sourceIdentifier": "surfaces:1387897-9b69c8b5-672d-4dfa-9b61-05d7d35e220d",
+                                  "children": [
+                                    {
+                                      "modelName": "surface",
+                                      "name": "surface0",
+                                      "identifier": "surface:1388222-9b69c8b5-672d-4dfa-9b61-05d7d35e220d",
+                                      "sourceIdentifier": "surface:1387902-9b69c8b5-672d-4dfa-9b61-05d7d35e220d",
+                                      "isMaterialIdentifierEnabled": true,
+                                      "materialIdentifier": "dependent_material_model:1387851-9b69c8b5-672d-4dfa-9b61-05d7d35e220d",
+                                      "surfaceGroupIdentifier": "1387903-9b69c8b5-672d-4dfa-9b61-05d7d35e220d"
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "modelName": "mesh",
+                              "name": "pCone10",
+                              "identifier": "mesh:1388225-9b69c8b5-672d-4dfa-9b61-05d7d35e220d",
+                              "sourceIdentifier": "mesh:1387905-9b69c8b5-672d-4dfa-9b61-05d7d35e220d",
+                              "animationMask": {
+                                "position": false,
+                                "rotation": false,
+                                "scale": false
+                              },
+                              "cameraVisibility": "back|front",
+                              "castShadow": false,
+                              "hidden": false,
+                              "layerIdentifier": "layer0",
+                              "nodeName": "pCone10",
+                              "numberOfFaces": 156,
+                              "outputVisibility": "preview|capture",
+                              "physicsEnabled": false,
+                              "prefabIdentifier": "gltf:1387909-9b69c8b5-672d-4dfa-9b61-05d7d35e220d",
+                              "receiveShadow": false,
+                              "renderPass": "main_scene",
+                              "tags": [],
+                              "transform": {
+                                "rx": 0,
+                                "ry": 0,
+                                "rz": 0,
+                                "sx": 1,
+                                "sy": 1,
+                                "sz": 1,
+                                "x": 0,
+                                "y": 0,
+                                "z": 0
+                              },
+                              "useEmbeddedBlendshapes": false,
+                              "children": [
+                                {
+                                  "modelName": "surfaces",
+                                  "identifier": "surfaces:1388228-9b69c8b5-672d-4dfa-9b61-05d7d35e220d",
+                                  "sourceIdentifier": "surfaces:1387907-9b69c8b5-672d-4dfa-9b61-05d7d35e220d",
+                                  "children": [
+                                    {
+                                      "modelName": "surface",
+                                      "name": "surface0",
+                                      "identifier": "surface:1388231-9b69c8b5-672d-4dfa-9b61-05d7d35e220d",
+                                      "sourceIdentifier": "surface:1387912-9b69c8b5-672d-4dfa-9b61-05d7d35e220d",
+                                      "isMaterialIdentifierEnabled": true,
+                                      "materialIdentifier": "dependent_material_model:1387851-9b69c8b5-672d-4dfa-9b61-05d7d35e220d",
+                                      "surfaceGroupIdentifier": "1387913-9b69c8b5-672d-4dfa-9b61-05d7d35e220d"
+                                    },
+                                    {
+                                      "modelName": "surface",
+                                      "name": "surface1",
+                                      "identifier": "surface:1388234-9b69c8b5-672d-4dfa-9b61-05d7d35e220d",
+                                      "sourceIdentifier": "surface:1387915-9b69c8b5-672d-4dfa-9b61-05d7d35e220d",
+                                      "isMaterialIdentifierEnabled": true,
+                                      "materialIdentifier": "dependent_material_model:1387853-9b69c8b5-672d-4dfa-9b61-05d7d35e220d",
+                                      "surfaceGroupIdentifier": "1387916-9b69c8b5-672d-4dfa-9b61-05d7d35e220d"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "modelName": "mesh",
+                      "name": "LETRA1",
+                      "identifier": "mesh:1388237-9b69c8b5-672d-4dfa-9b61-05d7d35e220d",
+                      "sourceIdentifier": "mesh:1387918-9b69c8b5-672d-4dfa-9b61-05d7d35e220d",
+                      "animationMask": {
+                        "position": false,
+                        "rotation": false,
+                        "scale": false
+                      },
+                      "cameraVisibility": "back|front",
+                      "castShadow": false,
+                      "hidden": false,
+                      "layerIdentifier": "layer0",
+                      "nodeName": "LETRA1",
+                      "numberOfFaces": 6912,
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "prefabIdentifier": "gltf:1387922-9b69c8b5-672d-4dfa-9b61-05d7d35e220d",
+                      "receiveShadow": false,
+                      "renderPass": "main_scene",
+                      "tags": [],
+                      "transform": {
+                        "rx": 0,
+                        "ry": 0,
+                        "rz": 0,
+                        "sx": 1,
+                        "sy": 1,
+                        "sz": 3.535439968109131,
+                        "x": 0.00301958411000669,
+                        "y": 0.35281383991241455,
+                        "z": 0.01207833644002676
+                      },
+                      "useEmbeddedBlendshapes": false,
+                      "children": [
+                        {
+                          "modelName": "surfaces",
+                          "identifier": "surfaces:1388240-9b69c8b5-672d-4dfa-9b61-05d7d35e220d",
+                          "sourceIdentifier": "surfaces:1387920-9b69c8b5-672d-4dfa-9b61-05d7d35e220d",
+                          "children": [
+                            {
+                              "modelName": "surface",
+                              "name": "surface0",
+                              "identifier": "surface:1388243-9b69c8b5-672d-4dfa-9b61-05d7d35e220d",
+                              "sourceIdentifier": "surface:1387925-9b69c8b5-672d-4dfa-9b61-05d7d35e220d",
+                              "isMaterialIdentifierEnabled": true,
+                              "materialIdentifier": "dependent_material_model:1387855-9b69c8b5-672d-4dfa-9b61-05d7d35e220d",
+                              "surfaceGroupIdentifier": "1387926-9b69c8b5-672d-4dfa-9b61-05d7d35e220d"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "modelName": "mesh",
+                      "name": "LUNA1",
+                      "identifier": "mesh:1388246-9b69c8b5-672d-4dfa-9b61-05d7d35e220d",
+                      "sourceIdentifier": "mesh:1387928-9b69c8b5-672d-4dfa-9b61-05d7d35e220d",
+                      "animationMask": {
+                        "position": false,
+                        "rotation": false,
+                        "scale": false
+                      },
+                      "cameraVisibility": "back|front",
+                      "castShadow": false,
+                      "hidden": false,
+                      "layerIdentifier": "layer0",
+                      "nodeName": "LUNA1",
+                      "numberOfFaces": 1280,
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "prefabIdentifier": "gltf:1387932-9b69c8b5-672d-4dfa-9b61-05d7d35e220d",
+                      "receiveShadow": false,
+                      "renderPass": "main_scene",
+                      "tags": [],
+                      "transform": {
+                        "rx": 1.5707963705062866,
+                        "ry": 0,
+                        "rz": 0,
+                        "sx": 8.702424049377441,
+                        "sy": 1.4416435956954956,
+                        "sz": 8.702424049377441,
+                        "x": -0.0005601538578048348,
+                        "y": 0.23695041239261627,
+                        "z": -0.05468036234378815
+                      },
+                      "useEmbeddedBlendshapes": false,
+                      "children": [
+                        {
+                          "modelName": "surfaces",
+                          "identifier": "surfaces:1388249-9b69c8b5-672d-4dfa-9b61-05d7d35e220d",
+                          "sourceIdentifier": "surfaces:1387930-9b69c8b5-672d-4dfa-9b61-05d7d35e220d",
+                          "children": [
+                            {
+                              "modelName": "surface",
+                              "name": "surface0",
+                              "identifier": "surface:1388252-9b69c8b5-672d-4dfa-9b61-05d7d35e220d",
+                              "sourceIdentifier": "surface:1387935-9b69c8b5-672d-4dfa-9b61-05d7d35e220d",
+                              "isMaterialIdentifierEnabled": true,
+                              "materialIdentifier": "dependent_material_model:1387857-9b69c8b5-672d-4dfa-9b61-05d7d35e220d",
+                              "surfaceGroupIdentifier": "1387936-9b69c8b5-672d-4dfa-9b61-05d7d35e220d"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
                 }
               ]
             }
